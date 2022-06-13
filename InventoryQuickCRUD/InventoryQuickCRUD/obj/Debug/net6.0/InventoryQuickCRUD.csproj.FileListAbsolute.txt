@@ -1,0 +1,9 @@
+C:\Users\User\Documents\GitHub\Inventory-Quick-CRUD\InventoryQuickCRUD\InventoryQuickCRUD\obj\Debug\net6.0\InventoryQuickCRUD.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Inventory-Quick-CRUD\InventoryQuickCRUD\InventoryQuickCRUD\obj\Debug\net6.0\InventoryQuickCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Inventory-Quick-CRUD\InventoryQuickCRUD\InventoryQuickCRUD\obj\Debug\net6.0\InventoryQuickCRUD.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Inventory-Quick-CRUD\InventoryQuickCRUD\InventoryQuickCRUD\obj\Debug\net6.0\InventoryQuickCRUD.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Inventory-Quick-CRUD\InventoryQuickCRUD\InventoryQuickCRUD\obj\Debug\net6.0\InventoryQuickCRUD.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Inventory-Quick-CRUD\InventoryQuickCRUD\InventoryQuickCRUD\obj\Debug\net6.0\InventoryQuickCRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Inventory-Quick-CRUD\InventoryQuickCRUD\InventoryQuickCRUD\obj\Debug\net6.0\InventoryQuickCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\Inventory-Quick-CRUD\InventoryQuickCRUD\InventoryQuickCRUD\obj\Debug\net6.0\InventoryQuickCRUD.RazorAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\Inventory-Quick-CRUD\InventoryQuickCRUD\InventoryQuickCRUD\obj\Debug\net6.0\InventoryQuickCRUD.RazorAssemblyInfo.cs
